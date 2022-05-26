@@ -5,5 +5,7 @@ const objetoA: {
   chaveA: 'ValorA',
   chaveB: 'ValorB',
 };
+
 objetoA.chaveB = 'Outro valor';
+
 console.log(objetoA);
